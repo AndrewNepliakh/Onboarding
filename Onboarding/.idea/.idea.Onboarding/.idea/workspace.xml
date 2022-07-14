@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec6a0c0d-4799-4af3-ab7e-b7f2adff4eb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Onboarding/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Onboarding/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Onboarding/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Onboarding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Plugins/UnityPurchasing.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Plugins/UnityPurchasing/Icons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Plugins/UnityPurchasing/Icons/UnityEngine.Purchasing.IAPButtonIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Plugins/UnityPurchasing/Icons/UnityEngine.Purchasing.IAPButtonIcon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Plugins/UnityPurchasing/script.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Plugins/UnityPurchasing/script/IAPButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Plugins/UnityPurchasing/script/IAPButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/CoinRotate.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/CoinRotate/Coin.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/CoinRotate/Coin.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/CoinRotate/CoinRotate.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/CoinRotate/CoinRotate.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Ads.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Ads/Animators.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Ads/Animators/IAPNoAds 1.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Ads/Animators/IAPNoAds 1.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Ads/NoAds.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Ads/NoAds.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Gameover.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Gameover/Animators.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Gameover/Animators/ContinueButton.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Gameover/Animators/ContinueButton.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Gameover/GameoverButton.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Gameover/GameoverButton.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/InGame.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/InGame/Animators.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/InGame/Animators/Score.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/InGame/Animators/Score.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/InGame/Score.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/InGame/Score.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Pause.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Pause/Animatiors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Pause/Animatiors/ContinueButton.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Pause/Animatiors/ContinueButton.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Pause/PauseButton.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Pause/PauseButton.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/Animators.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/Animators/Finger.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/Animators/Finger.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/Animators/LevelGift.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/Animators/LevelGift.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/Animators/SettingsButton.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/Animators/SettingsButton.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/FingerPosition.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/FingerPosition.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/GiftLevelRotate.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/GiftLevelRotate.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/SettingsClose.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/SettingsClose.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/SettingsOpen.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/StartMenu/SettingsOpen.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/Name.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/Name.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/Score.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/Score.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/Title.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/Title.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/W_Coins.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/W_Coins.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/W_Score.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/W_Score.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/xScore.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/xScore.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/xScore.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Animations/UI/Win/xScore.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Documentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Documentation.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/CustomCameraFollow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/CustomCameraFollow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/CustomCylinder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/CustomCylinder.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/CustomCylinderCont.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/CustomCylinderCont.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/CustomMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/CustomMenu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/LevelEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Editor/LevelEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/1.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/1.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/2.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/2.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/3.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/3.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/4.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/4.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/5.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Fonts/5.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Adds.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Adds.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Block.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Block.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Coins.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Coins.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Cone.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Cone.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Cubes_1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Cubes_1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Cubes_2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Cubes_2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Cylinder.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Cylinder.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Finish.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Finish.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Platforms.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Platforms.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Player.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Player.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Window.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Materials/Window.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Coin.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Coin.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Cone.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Cone.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Materials/Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Materials/Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Rigged.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Models/Rigged.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Particle.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Particle/New Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Particle/New Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Particle/Particle System.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Particle/Particle System.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Particle/Particle.renderTexture" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Particle/Particle.renderTexture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Physic Material.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Physic Material/Platform.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Physic Material/Platform.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/Player.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/Player.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/dead.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/dead.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/fly.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/fly.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/idle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/idle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/jump-up.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/jump-up.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/jump.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/jump.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/run.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/run.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/wave.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/wave.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/win.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Player Animations/win.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/EventSystem.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/EventSystem.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Finish.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Finish.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Level.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Level.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Light.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Light.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Particle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Particle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Players.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Players.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Window.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/CustomEditor/Window.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Add 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Add 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Add.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Add.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Brige.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Brige.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Coin.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Coin.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Cones.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Cones.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Cubes.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Cubes.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Platfrom.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Platfrom.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Window.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Others/Window.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player/Cylinder.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player/Cylinder.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player/MainCylinder.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player/MainCylinder.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player/SpawnBlock.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Player/SpawnBlock.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Triggers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Triggers/DeadTrigger.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Triggers/DeadTrigger.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Triggers/GroundOff.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Triggers/GroundOff.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Triggers/SpawnOn.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Prefabs/Triggers/SpawnOn.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_10.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_11.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_12.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_12.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_7.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Resources/image_9.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes/Level_1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes/Level_1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes/Level_2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes/Level_2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes/Level_3.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes/Level_3.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes/Menu.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scenes/Menu.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Ads.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Ads/AdsManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Ads/AdsManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Custom Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Custom Editor/CoinsArray.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Custom Editor/CoinsArray.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Custom Editor/OthersArray.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Custom Editor/OthersArray.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Custom Editor/PlatformsArray.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Custom Editor/PlatformsArray.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/Adders.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/Adders.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/AllOnTrigger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/AllOnTrigger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/Coins.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/Coins.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/Cones.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/Cones.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/Finish.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/Finish.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/LevelDistance.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/LevelDistance.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/SpawnOnTrigger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Others/SpawnOnTrigger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/CameraFollow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/CameraFollow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/Cylinder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/Cylinder.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/CylinderCont.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/CylinderCont.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/InstatiatePlayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/InstatiatePlayer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/PlayerPos.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Players/PlayerPos.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Plugins/TouchSimulator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Plugins/TouchSimulator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Plugins/Vibration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/Plugins/Vibration.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/UI/DontOnDestroy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/UI/DontOnDestroy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/UI/Menu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Scripts/UI/Menu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds/Victory.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds/Victory.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds/click_003.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds/click_003.ogg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds/drop_002.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds/drop_002.ogg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds/drop_003.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sounds/drop_003.ogg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Add.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Backgrounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Backgrounds/SettingsPanel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Backgrounds/SettingsPanel.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Backgrounds/WhiteBackGround.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Backgrounds/WhiteBackGround.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/Finger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/Finger.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/Like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/Like.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/noads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/noads.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/restore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/restore.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/settings.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/vibration Off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/vibration Off.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/vibration On.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/vibration On.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/volume On.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/volume On.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/volume-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Buttons/volume-off.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Cubie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Cubie.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x10.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x10.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x100.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x100.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x101.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x101.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x20.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x20.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x30.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x30.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x5.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x5.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x50.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x50.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x6.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x6.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x7.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x7.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x70.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x70.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x71.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x71.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x8.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x8.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x9.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/Materials/x9.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x10.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x100.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x20.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x30.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x40.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x50.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x7.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x70.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Finish/x9.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Levels.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Levels/Levels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Levels/Levels.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Levels/Levels_Opened.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Levels/Levels_Opened.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Score.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Score/Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Score/Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Win.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Win/Finish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/Win/Finish.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/Untwist Road/Sprites/gift.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSettings/boot.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BvdeiSvaPSnrVuzlolmp5ony2P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "rider.run.widget.enabled.cache": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Repository\Onboarding\Onboarding -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Repository\Onboarding\Onboarding" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6a0c0d-4799-4af3-ab7e-b7f2adff4eb9" name="Changes" comment="" />
+      <created>1657790592677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657790592677</updated>
+      <workItem from="1657790605048" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
