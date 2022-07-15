@@ -1,24 +1,3 @@
-﻿using UnityEditor;
-using UnityEditor.SceneManagement;
-using UnityEngine;
-
-[CustomEditor(typeof(CameraFollow))]
-public class CustomCameraFollow :  Editor
-{
-    public override void OnInspectorGUI()
-    {
-        DrawDefaultInspector();
-        CameraFollow cam = (CameraFollow)target;
-
-        if (GUILayout.Button("Reset to standard")) //If the button was pressed, restore the default values
-        {
-            cam.offset = new Vector3(0,4,-8);
-            cam.cameraSmooth = 0.2f;
-        }
-        if (GUI.changed) //Saving changes
-        {
-            EditorUtility.SetDirty(cam);
-            EditorSceneManager.MarkSceneDirty(cam.gameObject.scene);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f94d683afcc5ee7f896f35ca0a8e09c22144f374183d30ffed9fe14fa80ba38
+size 678

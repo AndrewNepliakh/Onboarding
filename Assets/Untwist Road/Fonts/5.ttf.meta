@@ -1,22 +1,3 @@
-fileFormatVersion: 2
-guid: 31e849563c2aee64485e9cac43ed61c7
-TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontName: Univers Condensed
-  fontNames:
-  - Univers Condensed
-  fallbackFontReferences: []
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
-  shouldRoundAdvanceValue: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:6900e0978b1721a5a38f5353a06dfeb5b21a1e044eede1a2973220c73c56ee1f
+size 512

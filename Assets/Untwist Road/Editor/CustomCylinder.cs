@@ -1,24 +1,3 @@
-﻿using UnityEditor;
-using UnityEditor.SceneManagement;
-using UnityEngine;
-
-[CustomEditor(typeof(Cylinder))]
-public class CustomCylinder : Editor
-{
-    public override void OnInspectorGUI()
-    {
-        DrawDefaultInspector();
-        Cylinder cylinder = (Cylinder)target;
-
-        if (GUILayout.Button("Reset to standard")) //If the button was pressed, restore the default values
-        {
-            cylinder.rotationAngle = new Vector3(0, -10, 0);
-            cylinder.rotationSpeed = 25;
-        }
-        if (GUI.changed) //Saving changes
-        {
-            EditorUtility.SetDirty(cylinder);
-            EditorSceneManager.MarkSceneDirty(cylinder.gameObject.scene);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce5c17f1cd3b586a6b70d667d8906e70579a07c8fc78a133d35ad1ecc2f13d74
+size 695

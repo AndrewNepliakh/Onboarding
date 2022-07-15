@@ -1,18 +1,3 @@
-﻿using UnityEngine;
-
-public class InstatiatePlayer : MonoBehaviour
-{
-    [Header("Player prefab")]
-    public GameObject prefab;
-    Vector3 startPosition;
-
-    void Awake()
-    {
-        GameObject player = Instantiate(prefab); //Instantiate player
-        player.transform.parent = gameObject.transform; //Add parent to player
-
-        Transform cylinder = GameObject.FindGameObjectWithTag("MainCylinder").transform; //Get cylinder transform
-        startPosition = new Vector3(0,cylinder.transform.localPosition.y + cylinder.transform.localScale.y / 2 + prefab.transform.localScale.y / 2,cylinder.transform.localPosition.z); //Calculate player start position depend cylinder position
-        player.transform.localPosition = startPosition; //Set position for player
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:36a6e55ac1d6e67b658609aa2b4c8fefdfde348dda1a170d259dc4030e9000e3
+size 779

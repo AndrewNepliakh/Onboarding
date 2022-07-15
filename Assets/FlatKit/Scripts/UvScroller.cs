@@ -1,27 +1,3 @@
-﻿using UnityEngine;
-
-namespace FlatKit {
-    public class UvScroller : MonoBehaviour {
-        public Material targetMaterial;
-        public float speedX = 0f;
-        public float speedY = 0f;
-
-        private Vector2 offset;
-        private Vector2 initOffset;
-
-        void Start() {
-            offset = targetMaterial.mainTextureOffset;
-            initOffset = targetMaterial.mainTextureOffset;
-        }
-
-        void OnDisable() {
-            targetMaterial.mainTextureOffset = initOffset;
-        }
-
-        void Update() {
-            offset.x += speedX * Time.deltaTime;
-            offset.y += speedY * Time.deltaTime;
-            targetMaterial.mainTextureOffset = offset;
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6089eba85a54318b107b79b8902646deb4aad6ddcceb8c7310279eeca3347d41
+size 706
