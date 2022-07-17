@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: e32cae2a5bbfb41888ef2ba8391ab87d
-labels:
-- Unlit
-- Shader
-- Flat
-- Gradient
-ShaderImporter:
-  defaultTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbecb75c32a539b663ceaa1f5fab0a3ccbaab294c4393962b2885a4854213015
+size 197

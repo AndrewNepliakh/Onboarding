@@ -1,28 +1,3 @@
-﻿using UnityEditor;
-using UnityEditor.SceneManagement;
-using UnityEngine;
-
-[CustomEditor(typeof(Menu))]
-public class CustomMenu : Editor
-{
-    public override void OnInspectorGUI()
-    {
-        DrawDefaultInspector();
-        Menu menu = (Menu)target;
-
-        if (GUILayout.Button("Reset to standard")) //If the button was pressed, restore the default values
-        {
-            menu.TestingLevelId = 1;
-            menu.TestingMode = false;
-
-            menu.timeMax = 2;
-
-            menu.vibrationPower = 40;
-        }
-        if (GUI.changed) //Saving changes
-        {
-            EditorUtility.SetDirty(menu);
-            EditorSceneManager.MarkSceneDirty(menu.gameObject.scene);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:690fdc3358e2286e6513825b2ac38329bb629174796b57792498aa23b0f15e89
+size 710

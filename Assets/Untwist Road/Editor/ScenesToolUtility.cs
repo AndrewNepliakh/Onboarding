@@ -1,22 +1,3 @@
-﻿using UnityEditor;
-using UnityEditor.SceneManagement;
-using UnityEngine;
-
-namespace Untwist_Road.Editor
-{
-    public class ScenesToolUtility
-    {
-        [MenuItem("Scenes/Menu")] public static void MenuScene() => OpenEditorScene("Menu");
-        [MenuItem("Scenes/Level_1")] public static void Level1Scene() => OpenEditorScene("Level_1");
-        [MenuItem("Scenes/Level_2")] public static void Level2Scene() => OpenEditorScene("Level_2");
-        [MenuItem("Scenes/Level_3")] public static void Level3Scene() => OpenEditorScene("Level_3");
-
-        static void OpenEditorScene(string sceneName)
-        {
-            if (Application.isPlaying)
-                return;
-
-            EditorSceneManager.OpenScene(Application.dataPath + "/Untwist Road/Scenes/" + sceneName + ".unity");
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd0f8656d46222f3cb38b4083f2fb333311c57d8606381aeaf37b3882b761829
+size 805

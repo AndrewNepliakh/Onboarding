@@ -1,18 +1,3 @@
-﻿Shader "Unlit/UnlitColor" {
-    Properties {
-        _Color ("Main Color", Color) = (1, 1, 1, 1)        
-        _MainTex ("Base (RGB)", 2D) = "white" {}
-    }
-
-    SubShader {
-        Tags { "RenderType"="Opaque" }
-        LOD 100
-        Pass {
-            Lighting Off
-            SetTexture [_MainTex] { 
-                constantColor [_Color]
-                combine constant * texture
-            } 
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea2168bd38580c196007dec2727c96ca5ddf1a3d15307786a40093153340fea
+size 426

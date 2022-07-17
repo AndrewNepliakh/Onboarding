@@ -1,28 +1,3 @@
-﻿using UnityEngine;
-
-public class PlayerPos : MonoBehaviour
-{
-    CylinderCont cylinder;
-
-    void Start()
-    {
-        cylinder = GameObject.FindGameObjectWithTag("MainCylinder").GetComponent<CylinderCont>();
-    }
-
-    void LateUpdate()
-    {
-        transform.position = new Vector3(cylinder.transform.position.x, transform.position.y, cylinder.transform.position.z); //Player movement behind the cylinder from above
-    }
-
-    void OnCollisionEnter(Collision collision) 
-    {
-        if (collision.collider.tag == "GroundOn")
-        {
-            if (transform.position.z >= cylinder.posStart.z + cylinder.distance) //When game over and the player jumped from the end of the road to the house
-            {
-                cylinder.animator.Play("dead"); //Play dead animation
-                cylinder.playerrb.constraints = RigidbodyConstraints.FreezeRotation | RigidbodyConstraints.FreezePositionZ | RigidbodyConstraints.FreezePositionX; //Freeze rotaiton and position x
-            }
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0f7e728cca1535ef47f3526800f8b6ddb2cfa4fc9faa54972a5b73e7e5c39bc
+size 1013
